@@ -1,0 +1,1 @@
+# Ahoj, přidávám ti sem skript
